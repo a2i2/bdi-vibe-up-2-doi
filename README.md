@@ -1,7 +1,7 @@
-# &lt;Vibe Up 2.0&gt; — Citation & Release Log
+# Vibe Up 2.0 — Citation & Release Log
 
 This repository is a **public citation and release-tracking record** for
-**&lt;Vibe Up 2.0&gt;**, which is closed-source / proprietary software.
+**Vibe Up 2.0**, which is closed-source / proprietary software.
 
 It does **not** contain source code. Instead, it exists so that the
 software can be cited in academic work via a persistent DOI, and so that
@@ -20,7 +20,7 @@ see [Access & Licensing](#access--licensing) below.
 
 ## How to cite
 
-To cite the current version of &lt;Vibe Up 2.0&gt;, use the metadata in
+To cite the current version of Vibe Up 2.0, use the metadata in
 [`CITATION.cff`](./CITATION.cff), or click **"Cite this repository"** in
 the sidebar of this GitHub repo.
 
@@ -45,23 +45,23 @@ This DOI always resolves to the metadata for the most recent version.
 
 ## How this log is maintained
 
-1. A new version of &lt;Vibe Up 2.0&gt; is released internally.
+1. A new version of Vibe Up 2.0 is released internally.
 2. Release notes (no source) are added to this repo and a matching git tag is pushed (e.g. `v1.3.0`).
 3. Zenodo, connected to this repository, automatically archives the tagged release and mints a new version-specific DOI.
 4. `CITATION.cff` and the version history table above are updated with the new version and DOI.
 
 ## Access & Licensing
 
-&lt;Vibe Up 2.0&gt; is closed-source. For access, licensing, or
+Vibe Up 2.0 is closed-source. For access, licensing, or
 collaboration inquiries, please contact:
 
-**&lt;A2I2 Admin&gt;** — &lt;a2i2-admin@deakin.edu.au&gt;
-&lt;Deakin University - Applied Artificial Intelligence Initiative&gt; — (https://a2i2.deakin.edu.au)[https://a2i2.deakin.edu.au]
+**A2I2 Admin** — [a2i2-admin@deakin.edu.au](mailto:a2i2-admin@deakin.edu.au)  
+Deakin University - Applied Artificial Intelligence Initiative — [https://a2i2.deakin.edu.au](https://a2i2.deakin.edu.au)
 
 ## License
 
 The **contents of this repository** (release notes, changelogs, and
-citation metadata) are licensed under &lt;LICENSE, e.g. CC-BY-4.0&gt;.
+citation metadata) are licensed under LICENSE, e.g. CC-BY-4.0.
 This license applies only to the materials in this repo and does **not**
-extend any rights to the &lt;Vibe up 2.0&gt; software itself, which
+extend any rights to the Vibe up 2.0 software itself, which
 remains proprietary and is governed by its own license terms.
