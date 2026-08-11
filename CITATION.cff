@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software in your research, please cite it using the
+  metadata below. This citation reflects the current release; see the
+  "Version History" table in README.md for citations of prior releases
+  and their individual DOIs.
+title: "Vibe Up 2.0"
+type: software
+version: "0.0.0"                      # update on each release
+date-released: "YYYY-MM-DD"           # update on each release
+doi: "10.xxxx/zenodo.xxxxxxx"         # this release's DOI (filled in after Zenodo archives the tag)
+license: "<LICENSE-FOR-THIS-REPO-CONTENT>"   # e.g. CC-BY-4.0 for the docs/metadata, NOT the software license
+abstract: >-
+  <One or two sentences describing what the software does. This is a
+  public citation and release-log record for <SOFTWARE NAME>, which is
+  closed-source. This repository contains release notes, changelogs,
+  and citation metadata only; it does not contain source code.>
+authors:
+  - family-names: "Funke Kupper"
+    given-names: "Joost"
+    orcid: "https://orcid.org/0009-0009-6067-1782"
+    affiliation: "Deakin University"
+  # - add additional authors as needed
+identifiers:
+  - type: doi
+    value: "10.xxxx/zenodo.xxxxxxx"   # concept DOI (always resolves to latest version)
+    description: "This DOI represents all versions and will always resolve to the latest one."
+keywords:
+  - <keyword1>
+  - <keyword2>
+contact:
+  - email: "a2i2-admin@deakin.edu.au"
