@@ -39,7 +39,7 @@ This DOI always resolves to the metadata for the most recent version.
 
 | Version | Release date | DOI | Release notes |
 |---------|--------------|-----|----------------|
-| v0.0.0  | YYYY-MM-DD   | [10.xxxx/zenodo.xxxxxxx](https://doi.org/10.xxxx/zenodo.xxxxxxx) | [Notes](./releases/v0.0.0.md) |
+| 2026.08.12  | 2026-08-12   | [10.5281/zenodo.21897224](https://doi.org/10.5281/zenodo.21897224) | [Notes](./releases/2026.08.12.md) |
 
 *(Add a row here each time a new version is tagged and archived.)*
 
