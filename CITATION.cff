@@ -12,10 +12,8 @@ doi: "10.xxxx/zenodo.xxxxxxx"         # this release's DOI (filled in after Zeno
 repository: "https://github.com/a2i2/bdi-vibe-up-2-doi"
 license: "CC-BY-4.0"   # e.g. CC-BY-4.0 for the docs/metadata, NOT the software license
 abstract: >-
-  <One or two sentences describing what the software does. This is a
-  public citation and release-log record for <SOFTWARE NAME>, which is
-  closed-source. This repository contains release notes, changelogs,
-  and citation metadata only; it does not contain source code.>
+  The Vibe Up 2.0 mobile apps running on the Conductor platform delivers intervention content and survey measures pertaining to the Wellcome study.
+  This is a public citation and release-log record for Vibe Up 2.0, which is closed-source. This repository contains release notes, changelogs, and citation metadata only; it does not contain source code.
 authors:
   - family-names: "Funke Kupper"
     given-names: "Joost"
