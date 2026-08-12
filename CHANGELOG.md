@@ -18,7 +18,7 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 **Components in this snapshot:** Android v2.2.2 · iOS v2.1.0 · Backend v0.67.0
 
-**DOI:** 10.xxxx/zenodo.xxxxxxx
+**DOI:** https://doi.org/10.5281/zenodo.21897224
 
 ### Android (v2.2.2)
 #### Added
