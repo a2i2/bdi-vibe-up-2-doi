@@ -16,7 +16,7 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ## [2026.08.12] — 2026-08-12
 
-**Components in this snapshot:** Android v3.2.0 · iOS v2.9.0 · Backend v1.14.0
+**Components in this snapshot:** Android v2.2.2 · iOS v2.1.0 · Backend v0.67.0
 
 **DOI:** 10.xxxx/zenodo.xxxxxxx
 
