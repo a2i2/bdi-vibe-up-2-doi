@@ -6,8 +6,9 @@ message: >-
   and their individual DOIs.
 title: "Vibe Up 2.0"
 type: software
-version: "2026.08.12"                      # update on each release
-date-released: "2026-08-12"           # update on each release
+# Uncomment and fill in when the first snapshot is tagged and archived:
+# version: "yyyy.mm.dd"               # update on each release
+# date-released: "yyyy-mm-dd"         # update on each release
 doi: "10.xxxx/zenodo.xxxxxxx"         # this release's DOI (filled in after Zenodo archives the tag)
 repository: "https://github.com/a2i2/bdi-vibe-up-2-doi"
 license: "CC-BY-4.0"   # e.g. CC-BY-4.0 for the docs/metadata, NOT the software license
@@ -38,9 +39,6 @@ identifiers:
   - type: other
     value: "iOS v2.1.0"
     description: "iOS app version included in this snapshot."
-  - type: other
-    value: "Backend v0.67.0"
-    description: "Backend version included in this snapshot."
 keywords:
   - Black Dog Institute
   - Android and iOS

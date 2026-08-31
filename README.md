@@ -11,7 +11,7 @@ the history of releases and their DOIs is transparent and easy to look up.
 
 - [`CITATION.cff`](./CITATION.cff) — machine-readable citation metadata for the **current** release (used by GitHub's "Cite this repository" button, Zenodo, and reference managers)
 - [`CHANGELOG.md`](./CHANGELOG.md) — human-readable summary of changes per release
-- Release notes for each tagged version (via GitHub Releases)
+- Release notes for each tagged version — published as [GitHub Releases](https://github.com/a2i2/bdi-vibe-up-2-doi/releases), not as files in this repository
 - A version history table (below) mapping each release to its DOI
 
 No implementation details, source code, build configs, or internal
@@ -37,16 +37,23 @@ This DOI always resolves to the metadata for the most recent version.
 
 ## Version history
 
+No version has been tagged and archived yet, so there are no DOIs to
+list. See [`CHANGELOG.md`](./CHANGELOG.md) for the release history of the
+apps in the meantime.
+
 | Version | Release date | DOI | Release notes |
 |---------|--------------|-----|----------------|
-| 2026.08.12  | 2026-08-12   | [10.5281/zenodo.21897224](https://doi.org/10.5281/zenodo.21897224) | [Notes](./releases/2026.08.12.md) |
+| — | — | — | — |
 
-*(Add a row here each time a new version is tagged and archived.)*
+*(Add a row here each time a new version is tagged and archived. The
+"Release notes" column links to that version's
+[GitHub Release](https://github.com/a2i2/bdi-vibe-up-2-doi/releases) —
+release notes are published there, not as files in this repository.)*
 
 ## How this log is maintained
 
 1. A new version of Vibe Up 2.0 is released internally.
-2. Release notes (no source) are added to this repo and a matching git tag is pushed (e.g. `v1.3.0`).
+2. A git tag is pushed (e.g. `v2026.08.31`) and a GitHub Release is published against it, with the release notes (no source) in the release body.
 3. Zenodo, connected to this repository, automatically archives the tagged release and mints a new version-specific DOI.
 4. `CITATION.cff` and the version history table above are updated with the new version and DOI.
 
