@@ -6,11 +6,10 @@ are summarized here, snapshot by snapshot. When a snapshot is tagged in
 [version history table](./README.md#version-history) in the README for
 DOIs and links to full release notes.
 
-**No snapshot has been archived yet, so no entry below carries a DOI.**
-Entries dated before this repository existed were never archived and
-will not be given a DOI retrospectively; they are recorded so that the
-history is complete and so that research conducted on an earlier version
-can identify what that version contained.
+Only tagged snapshots carry a DOI. Entries dated before this repository
+existed were never archived and will not be given a DOI retrospectively;
+they are recorded so that the history is complete and so that research
+conducted on an earlier version can identify what that version contained.
 
 Because the two apps release on their own cadences, entries below group
 releases by period rather than pairing them one-to-one.
@@ -26,13 +25,11 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ---
 
-## Unreleased
+## [2026.08.01] — 2026-08-31
 
 **Components in this snapshot:** Android v2.2.2 · iOS v2.1.0
 
-Android v2.2.2 shipped on 2026-08-31; iOS v2.1.0 has not shipped yet.
-This entry gets a version, a date and a DOI when the snapshot is tagged
-and archived.
+**DOI:** pending — assigned when Zenodo archives this release
 
 ### Android (v2.2.2)
 

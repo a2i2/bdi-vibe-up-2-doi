@@ -55,13 +55,12 @@ Git tags carry a leading `v` (e.g. `v2026.08.01`); the `version` field in
 
 ## Version history
 
-No version has been tagged and archived yet, so there are no DOIs to
-list. See [`CHANGELOG.md`](./CHANGELOG.md) for the release history of the
-apps in the meantime.
+Releases that predate this repository are not listed here and have no
+DOI; see [`CHANGELOG.md`](./CHANGELOG.md) for that earlier history.
 
 | Version | Release date | DOI | Release notes |
 |---------|--------------|-----|----------------|
-| — | — | — | — |
+| 2026.08.01 | 2026-08-31 | _pending_ | [Notes](https://github.com/a2i2/bdi-vibe-up-2-doi/releases/tag/v2026.08.01) |
 
 *(Add a row here each time a new version is tagged and archived. The
 "Release notes" column links to that version's
