@@ -8,7 +8,7 @@ title: "Vibe Up 2.0"
 type: software
 version: "2026.08.01"                 # CalVer; micro starts at 01 each month
 date-released: "2026-08-31"           # update on each release
-doi: "10.xxxx/zenodo.xxxxxxx"         # this release's DOI (filled in after Zenodo archives the tag)
+doi: "10.5281/zenodo.22202239"        # this release's DOI
 repository: "https://github.com/a2i2/bdi-vibe-up-2-doi"
 license: "CC-BY-4.0"   # e.g. CC-BY-4.0 for the docs/metadata, NOT the software license
 abstract: >-
@@ -30,7 +30,7 @@ authors:
   # - add additional authors as needed
 identifiers:
   - type: doi
-    value: "10.xxxx/zenodo.xxxxxxx"   # concept DOI (always resolves to latest version)
+    value: "10.5281/zenodo.21897223"  # concept DOI (always resolves to latest version)
     description: "This DOI represents all versions and will always resolve to the latest one."
   - type: other
     value: "Android v2.2.2"

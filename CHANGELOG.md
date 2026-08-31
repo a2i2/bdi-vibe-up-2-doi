@@ -29,7 +29,7 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 **Components in this snapshot:** Android v2.2.2 · iOS v2.1.0
 
-**DOI:** pending — assigned when Zenodo archives this release
+**DOI:** https://doi.org/10.5281/zenodo.22202239
 
 ### Android (v2.2.2)
 

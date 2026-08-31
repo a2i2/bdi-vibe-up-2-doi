@@ -31,7 +31,7 @@ latest release.
 
 ### Concept DOI (cite the project in general)
 
-> 10.xxxx/zenodo.xxxxxxx
+> [10.5281/zenodo.21897223](https://doi.org/10.5281/zenodo.21897223)
 
 This DOI always resolves to the metadata for the most recent version.
 
@@ -60,7 +60,7 @@ DOI; see [`CHANGELOG.md`](./CHANGELOG.md) for that earlier history.
 
 | Version | Release date | DOI | Release notes |
 |---------|--------------|-----|----------------|
-| 2026.08.01 | 2026-08-31 | _pending_ | [Notes](https://github.com/a2i2/bdi-vibe-up-2-doi/releases/tag/v2026.08.01) |
+| 2026.08.01 | 2026-08-31 | [10.5281/zenodo.22202239](https://doi.org/10.5281/zenodo.22202239) | [Notes](https://github.com/a2i2/bdi-vibe-up-2-doi/releases/tag/v2026.08.01) |
 
 *(Add a row here each time a new version is tagged and archived. The
 "Release notes" column links to that version's
