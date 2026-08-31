@@ -272,7 +272,7 @@ not summarized here; they remain recorded in the component repositories.
 <!--
 Template for a new entry:
 
-## [yyyy.mm.dd] — yyyy-mm-dd
+## [yyyy.mm.micro] — yyyy-mm-dd
 
 **Components in this snapshot:** Android vX.X.X · iOS vX.X.X
 

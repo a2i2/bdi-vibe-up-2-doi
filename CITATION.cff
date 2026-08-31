@@ -7,7 +7,7 @@ message: >-
 title: "Vibe Up 2.0"
 type: software
 # Uncomment and fill in when the first snapshot is tagged and archived:
-# version: "yyyy.mm.dd"               # update on each release
+# version: "yyyy.mm.micro"            # CalVer; micro starts at 01 each month
 # date-released: "yyyy-mm-dd"         # update on each release
 doi: "10.xxxx/zenodo.xxxxxxx"         # this release's DOI (filled in after Zenodo archives the tag)
 repository: "https://github.com/a2i2/bdi-vibe-up-2-doi"

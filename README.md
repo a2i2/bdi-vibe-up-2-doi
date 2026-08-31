@@ -35,6 +35,24 @@ latest release.
 
 This DOI always resolves to the metadata for the most recent version.
 
+## Versioning
+
+Snapshots use CalVer in the form `yyyy.mm.micro`:
+
+| Part | Meaning |
+|------|---------|
+| `yyyy` | Four-digit year of the release |
+| `mm` | Two-digit month of the release |
+| `micro` | Two-digit counter, starting at `01` for the first release of that month and incrementing for each further release in it |
+
+`micro` resets to `01` at the start of every month, so the first release of
+August 2026 is `2026.08.01`, a second release that month is `2026.08.02`,
+and the first release of September 2026 is `2026.09.01` — not `2026.09.03`.
+All parts are zero-padded.
+
+Git tags carry a leading `v` (e.g. `v2026.08.01`); the `version` field in
+[`CITATION.cff`](./CITATION.cff) and the changelog headings do not.
+
 ## Version history
 
 No version has been tagged and archived yet, so there are no DOIs to
@@ -53,7 +71,7 @@ release notes are published there, not as files in this repository.)*
 ## How this log is maintained
 
 1. A new version of Vibe Up 2.0 is released internally.
-2. A git tag is pushed (e.g. `v2026.08.31`) and a GitHub Release is published against it, with the release notes (no source) in the release body.
+2. A git tag is pushed (e.g. `v2026.08.01` — see [Versioning](#versioning)) and a GitHub Release is published against it, with the release notes (no source) in the release body.
 3. Zenodo, connected to this repository, automatically archives the tagged release and mints a new version-specific DOI.
 4. `CITATION.cff` and the version history table above are updated with the new version and DOI.
 
