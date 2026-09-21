@@ -6,14 +6,21 @@ message: >-
   and their individual DOIs.
 title: "Vibe Up 2.0"
 type: software
-version: "2026.08.01"                 # CalVer; micro starts at 01 each month
-date-released: "2026-08-31"           # update on each release
+version: "2026.09.01"                 # CalVer; micro starts at 01 each month
+date-released: "2026-09-21"           # update on each release
 doi: "10.5281/zenodo.22202239"        # this release's DOI
 repository: "https://github.com/a2i2/bdi-vibe-up-2-doi"
 license: "CC-BY-4.0"   # e.g. CC-BY-4.0 for the docs/metadata, NOT the software license
-abstract: >-
-  The Vibe Up 2.0 mobile apps running on the Conductor platform delivers intervention content and survey measures pertaining to the Wellcome study.
-  This is a public citation and release-log record for Vibe Up 2.0, which is closed-source. This repository contains release notes, changelogs, and citation metadata only; it does not contain source code.
+abstract: |-
+  Vibe Up 2.0 is the public-facing smartphone application developed for Project PHONOTYPE, funded by the Wellcome Trust (grant number 303030/Z/23/Z; Principal Investigator: Associate Professor Alexis Whitton).
+
+  The application delivers digital phenotyping functions, including the delivery and acquisition of ecological momentary assessment data and the collection of smartphone sensor data, such as accelerometer, battery, GPS-location and gyroscope data. These functions were previously implemented in the original Vibe Up and MindGRID digital phenotyping applications and have now been integrated into the study-specific Vibe Up 2.0 application package.
+
+  Vibe Up 2.0 combines digital phenotyping with the delivery of study outcome surveys and digital mental health intervention content through the Conductor platform.
+
+  This record provides a public citation and release-log record for Vibe Up 2.0, including release information, version history and citation metadata. The application source code is not publicly available because it is maintained within a closed-source platform. This record does not contain the application source code.
+
+  The software code is written and implemented by project staff at the Applied Artificial Intelligence Initiative, Deakin University. Mental health, clinical trial and digital phenotyping domain expertise is contributed by project staff based at the Black Dog Institute and University of New South Wales to enable delivery of digital phenotyping-based clinical trials in the area of digital mental health using the Vibe Up 2.0 application and Conductor digital study platform.
 authors:
   - family-names: "Funke Kupper"
     given-names: "Joost"
@@ -27,6 +34,45 @@ authors:
     given-names: "Nicholas"
     orcid: "https://orcid.org/0000-0002-7862-3051"
     affiliation: "Deakin University"
+  - family-names: "Whitton"
+    given-names: "Alexis E"
+    affiliation: "Black Dog Institute, University of New South Wales"
+  - family-names: "Newby"
+    given-names: "Jill"
+    affiliation: "Black Dog Institute, University of New South Wales"
+  - family-names: "Werner-Seidler"
+    given-names: "Aliza"
+    affiliation: "Black Dog Institute, University of New South Wales"
+  - family-names: "Christensen"
+    given-names: "Helen"
+    affiliation: "University of New South Wales"
+  - family-names: "O'Dea"
+    given-names: "Bridianne"
+    affiliation: "Flinders University"
+  - family-names: "Shvetcov"
+    given-names: "Artur"
+    affiliation: "The Westmead Institute for Medical Research"
+  - family-names: "Elder"
+    given-names: "Emma"
+    affiliation: "Black Dog Institute, University of New South Wales"
+  - family-names: "Hoon"
+    given-names: "Leonard"
+    affiliation: "Deakin University, Applied Artificial Intelligence Initiative"
+  - family-names: "Venkatesh"
+    given-names: "Svetha"
+    affiliation: "Deakin University, Applied Artificial Intelligence Initiative"
+  - family-names: "Gupta"
+    given-names: "Sunil"
+    affiliation: "Deakin University, Applied Artificial Intelligence Initiative"
+  - family-names: "Vasa"
+    given-names: "Rajesh"
+    affiliation: "Deakin University, Applied Artificial Intelligence Initiative"
+  - family-names: "Mouzakis"
+    given-names: "Kon"
+    affiliation: "Deakin University, Applied Artificial Intelligence Initiative"
+  - family-names: "Nguyen"
+    given-names: "Thin"
+    affiliation: "Deakin University, Applied Artificial Intelligence Initiative"
   # - add additional authors as needed
 identifiers:
   - type: doi
@@ -42,4 +88,4 @@ keywords:
   - Black Dog Institute
   - Android and iOS
 contact:
-  - email: "a2i2-admin@deakin.edu.au"
+  - email: "a.whitton@blackdog.org.au"
