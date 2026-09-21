@@ -50,23 +50,11 @@ August 2026 is `2026.08.01`, a second release that month is `2026.08.02`,
 and the first release of September 2026 is `2026.09.01` — not `2026.09.03`.
 All parts are zero-padded.
 
-Git tags carry a leading `v` (e.g. `v2026.08.01`); the `version` field in
-[`CITATION.cff`](./CITATION.cff) and the changelog headings do not.
+Git tags carry a leading `v` (e.g. `v2026.08.01`); the `version` field in [`CITATION.cff`](./CITATION.cff) and the changelog headings do not.
 
 ## Version history
 
-Releases that predate this repository are not listed here and have no
-DOI; see [`CHANGELOG.md`](./CHANGELOG.md) for that earlier history.
-
-| Version | Release date | DOI | Release notes |
-|---------|--------------|-----|----------------|
-| 2026.08.01 | 2026-08-31 | [10.5281/zenodo.22202239](https://doi.org/10.5281/zenodo.22202239) | [Notes](https://github.com/a2i2/bdi-vibe-up-2-doi/releases/tag/v2026.08.01) |
-| 2026.09.01 | 2026-09-21 | [10.5281/zenodo.22868073](https://zenodo.org/records/22868073) | [Notes](https://github.com/a2i2/bdi-vibe-up-2-doi/releases/tag/v2026.09.01) |
-
-*(Add a row here each time a new version is tagged and archived. The
-"Release notes" column links to that version's
-[GitHub Release](https://github.com/a2i2/bdi-vibe-up-2-doi/releases) —
-release notes are published there, not as files in this repository.)*
+Releases that predate this repository are not listed here and have no DOI; see [`CHANGELOG.md`](./CHANGELOG.md) for that earlier history.
 
 ## How this log is maintained
 

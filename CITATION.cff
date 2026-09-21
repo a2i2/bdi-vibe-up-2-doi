@@ -6,34 +6,31 @@ message: >-
   and their individual DOIs.
 title: "Vibe Up 2.0"
 type: software
-version: "2026.09.01"                 # CalVer; micro starts at 01 each month
+version: "2026.09.02"                 # CalVer; micro starts at 01 each month
 date-released: "2026-09-21"           # update on each release
-doi: "10.5281/zenodo.22202239"        # this release's DOI
+doi: "10.5281/zenodo.21897223"        # permament doi reference
 repository: "https://github.com/a2i2/bdi-vibe-up-2-doi"
 license: "CC-BY-4.0"   # e.g. CC-BY-4.0 for the docs/metadata, NOT the software license
 abstract: |-
   Vibe Up 2.0 is the public-facing smartphone application developed for Project PHONOTYPE, funded by the Wellcome Trust (grant number 303030/Z/23/Z; Principal Investigator: Associate Professor Alexis Whitton).
-
+  \n\n
   The application delivers digital phenotyping functions, including the delivery and acquisition of ecological momentary assessment data and the collection of smartphone sensor data, such as accelerometer, battery, GPS-location and gyroscope data. These functions were previously implemented in the original Vibe Up and MindGRID digital phenotyping applications and have now been integrated into the study-specific Vibe Up 2.0 application package.
-
+  \n\n
   Vibe Up 2.0 combines digital phenotyping with the delivery of study outcome surveys and digital mental health intervention content through the Conductor platform.
-
+  \n\n
   This record provides a public citation and release-log record for Vibe Up 2.0, including release information, version history and citation metadata. The application source code is not publicly available because it is maintained within a closed-source platform. This record does not contain the application source code.
-
+  \n\n
   The software code is written and implemented by project staff at the Applied Artificial Intelligence Initiative, Deakin University. Mental health, clinical trial and digital phenotyping domain expertise is contributed by project staff based at the Black Dog Institute and University of New South Wales to enable delivery of digital phenotyping-based clinical trials in the area of digital mental health using the Vibe Up 2.0 application and Conductor digital study platform.
 authors:
   - family-names: "Funke Kupper"
     given-names: "Joost"
-    orcid: "https://orcid.org/0009-0009-6067-1782"
-    affiliation: "Deakin University"
+    affiliation: "Deakin University, Applied Artificial Intelligence Initiative"
   - family-names: "Cameron"
     given-names: "Stuart"
-    orcid: "https://orcid.org/0000-0002-7862-3051"
-    affiliation: "Deakin University"
+    affiliation: "Deakin University, Applied Artificial Intelligence Initiative"
   - family-names: "Manoglou"
     given-names: "Nicholas"
-    orcid: "https://orcid.org/0000-0002-7862-3051"
-    affiliation: "Deakin University"
+    affiliation: "Deakin University, Applied Artificial Intelligence Initiative"
   - family-names: "Whitton"
     given-names: "Alexis E"
     affiliation: "Black Dog Institute, University of New South Wales"
@@ -85,7 +82,10 @@ identifiers:
     value: "iOS v2.1.0"
     description: "iOS app version included in this snapshot."
 keywords:
+  - Applied Artificial Intelligence Initiative
   - Black Dog Institute
+  - Deakin University
+  - University of New South Wales
   - Android and iOS
 contact:
   - email: "a.whitton@blackdog.org.au"

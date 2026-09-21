@@ -25,18 +25,18 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/en/
 
 ---
 
+## [2026.09.02] — 2026-09-21
+
+- Further tweaks to abstract.
+
 ## [2026.09.01] — 2026-09-21
 
 - Updated citation abstract.
 - Updated authors list.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22868073.svg)](https://doi.org/10.5281/zenodo.22868073)
-
 ## [2026.08.01] — 2026-08-31
 
 **Components in this snapshot:** Android v2.2.2 · iOS v2.1.0
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22202239.svg)](https://doi.org/10.5281/zenodo.22202239)
 
 ### Android (v2.2.2)
 
